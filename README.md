@@ -1,0 +1,1 @@
+# jsStarterKit-full-crud-MEAN-Demo
